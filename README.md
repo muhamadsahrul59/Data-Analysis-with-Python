@@ -1,27 +1,28 @@
 <h1 align="center"> </a><a href="https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="55" height="40"/> </a> Data Analysis with Python - by IBM <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
 
-**I am sharing sharing the solved Exercises & Project of Statistics for Data Science using Python course by IBM on Coursera which I have solved into my journey of Data Science.** 
+**I am sharing sharing the solved Exercises & Project of Data Analysis with Python course by IBM on Coursera which I have solved into my journey of Data Science.** 
 
 ### About this Course
 
-This Statistics for Data Science course is designed to introduce you to the basic principles of statistical methods and procedures used for data analysis. After completing this course you will have practical knowledge of crucial topics in statistics including  - data gathering, summarizing data using descriptive statistics, displaying and visualizing data, examining relationships between variables, probability distributions, expected values, hypothesis testing, introduction to ANOVA (analysis of variance), regression and correlation analysis. You will take a hands-on approach to statistical analysis using Python and Jupyter Notebooks – the tools of choice for Data Scientists and Data Analysts. 
+Learn how to analyze data using Python. This course will take you from the basics of Python to exploring many different types of data. You will learn how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more!
 
-At the end of the course, you will complete a project to apply various concepts in the course to a Data Science problem involving a real-life inspired scenario and demonstrate an understanding of the foundational statistical thinking and reasoning. The focus is on developing a clear understanding of the different 
-approaches for different data types, developing an intuitive understanding, making appropriate assessments of the proposed methods, using Python to analyze our data, and interpreting the output accurately. 
+✔ Collecting and importing data.
 
-This course is suitable for a variety of professionals and students intending to start their journey in data and statistics-driven roles such as Data Scientists, Data Analysts, Business Analysts, Statisticians, and Researchers. It does not require any computer science or statistics background.  We strongly recommend taking the Python for Data Science course before starting this course to get familiar with the Python programming language,  Jupyter notebooks, and libraries. An optional refresher on Python is also provided.
+✔ Cleaning, preparing & formatting data 
 
-After completing this course, you will be able to:
+✔ Data frame manipulation 
 
-✔ Calculate and apply measures of central tendency and measures of dispersion to grouped and ungrouped data.
+✔ Summarizing data 
 
-✔ Summarize, present, and visualize data in a way that is clear, concise, and provides a practical insight for non-statisticians needing the results.
+✔ Building machine learning regression models 
 
-✔ Identify appropriate hypothesis tests to use for common data sets.
+✔ Model refinement 
 
-✔ Conduct hypothesis tests, correlation tests, and regression analysis.
+✔ Creating data pipelines 
 
-✔ Demonstrate proficiency in statistical analysis using Python and Jupyter Notebooks.
+Data Analysis with Python will be delivered through lectures, labs, and assignments. It includes the following parts:
+
+Data Analysis libraries: will learn to use Pandas, Numpy, and Scipy libraries to work with a sample dataset. We will introduce you to pandas, an open-source library, and we will use it to load, manipulate, analyze, and visualize cool datasets. Then we will introduce you to another open-source library, scikit-learn, and we will use some of its machine learning algorithms to build smart models and make cool predictions.
 
 ## Technologies used ⚙️
 
