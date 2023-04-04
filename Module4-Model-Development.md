@@ -30,25 +30,27 @@ The variable y is?
 
 Question 1: Consider the following Residual Plot, is our linear model correct:
 
-- A. [X] ![3-3](https://user-images.githubusercontent.com/101655285/229883036-aac60a8a-0e81-4335-a6b5-30ddffd7b738.jpeg)
+![3-3](https://user-images.githubusercontent.com/17474099/118967171-acb2c100-b96a-11eb-8c53-ce1907489bff.png)
 
+- A. [X] Yes
 - B. [ ] Incorrect
 
 ## Practice Quiz: Polynomial Regression and Pipelines
 
 Question 1: What functions are used to generate Polynomial Regression with more than one dimension
 
-- A. [ ] ![3-3]()
-- B. [X] ![3-3](https://user-images.githubusercontent.com/17474099/118967171-acb2c100-b96a-11eb-8c53-ce1907489bff.png)
+- A. [ ] ![Web capture_5-4-2023_11617_www coursera org](https://user-images.githubusercontent.com/101655285/229883559-b1e435d5-0fb7-47c1-92ef-e5bb7dd5853d.jpeg)
+- B. [X] ![Web capture_5-4-2023_11626_www coursera org](https://user-images.githubusercontent.com/101655285/229883778-47fcf672-3212-466e-8f53-fb4bccf084dc.jpeg)
 
 ## Practice Quiz: Measures for In-Sample Evaluation
 
-Question 1: Consider the following lines of code; what value does the variable out contain?
+Question 1: Of the following answer values, which one is the minimum value of R^2?
 
 ![3-6](https://user-images.githubusercontent.com/17474099/118988127-353c5c00-b981-11eb-90de-468f8efd67c3.png)
 
-- A. [ ] Mean Squared Error
-- B. [X] The Coefficient of Determination or R^2
+- A. [ ] 10
+- B. [X] 0
+- C. [ ] 1
 
 ## Lesson Summary
 
