@@ -40,12 +40,12 @@ Question 1: Consider the following Residual Plot, is our linear model correct:
 
 Question 1: What functions are used to generate Polynomial Regression with more than one dimension
 
-- A. [ ] ```f=np.polyfit(x,y,3)
+- A. [ ] ```f=np.polyfit(x,y,3)```
          
-            p=np.poly1d(f)```
-- B. [X] ```pr=PolynomialFeatures(degree=2)
+          ```p=np.poly1d(f)```
+- B. [X] ```pr=PolynomialFeatures(degree=2)```
             
-            pr.fit_transform([1,2], include_bias=False)```
+         ```pr.fit_transform([1,2], include_bias=False)```
 
 ## Practice Quiz: Measures for In-Sample Evaluation
 
