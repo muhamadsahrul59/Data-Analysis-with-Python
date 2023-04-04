@@ -43,7 +43,7 @@ Question 1: Select the plot with a negative correlation:
 
 - B. [X]
 
-![2-8]([https://user-images.githubusercontent.com/17474099/118801688-912fb380-b8a1-11eb-8d7a-768320e354af.png](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/WIHk_DniEeiUEwpDBScAAA_c33f90338e672717b0d94d1e15c9351b_Screen-Shot-2018-04-06-at-5.23.39-PM.png?expiry=1680739200000&hmac=7f2Rg1AcVMkP8FqJ5SJK9CP6wLxDzBi4LE7u_Ngl458))
+![2-8](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/WIHk_DniEeiUEwpDBScAAA_c33f90338e672717b0d94d1e15c9351b_Screen-Shot-2018-04-06-at-5.23.39-PM.png?expiry=1680739200000&hmac=7f2Rg1AcVMkP8FqJ5SJK9CP6wLxDzBi4LE7u_Ngl458)
 
 ## Lesson Summary
 
