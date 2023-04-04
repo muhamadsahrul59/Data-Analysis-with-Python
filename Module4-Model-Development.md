@@ -16,7 +16,6 @@ Question 1: consider the following lines of code, what is the name of the column
 - A. [X] 'price'
 - B. [_] 'highway-mpg'
 
-
 Question 2: Consider the following equation:
 
 ![3-2](https://user-images.githubusercontent.com/17474099/118961442-9d307980-b964-11eb-8c6c-e700c234dec6.png)
@@ -31,23 +30,16 @@ The variable y is?
 
 Question 1: Consider the following Residual Plot, is our linear model correct:
 
-![3-3](https://user-images.githubusercontent.com/17474099/118967171-acb2c100-b96a-11eb-8c53-ce1907489bff.png)
+- A. [X] ![3-3](https://user-images.githubusercontent.com/101655285/229883036-aac60a8a-0e81-4335-a6b5-30ddffd7b738.jpeg)
 
-- A. [X] Yes
 - B. [ ] Incorrect
 
 ## Practice Quiz: Polynomial Regression and Pipelines
 
 Question 1: What functions are used to generate Polynomial Regression with more than one dimension
 
-- A. [ ] ``````
-         f=np.polyfit(x,y,3)
-         
-         p=np.poly1d(f)
-- B. [X] ``````
-         pr=PolynomialFeatures(degree=2) 
-         
-         pr.fit_transform([1,2], include_bias=False)
+- A. [ ] ![3-3]()
+- B. [X] ![3-3](https://user-images.githubusercontent.com/17474099/118967171-acb2c100-b96a-11eb-8c53-ce1907489bff.png)
 
 ## Practice Quiz: Measures for In-Sample Evaluation
 
